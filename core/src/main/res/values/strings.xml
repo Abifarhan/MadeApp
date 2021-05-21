@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_description">description</string>
+    <string name="text_subtitle">overview</string>
+    <string name="text_primary">title</string>
+</resources>
